@@ -6,7 +6,7 @@ A public running instance can be found on telegram as [@LunaChatBot](https://t.m
 <img src="https://hamker.me/knplfa4_luna.jpg" width="200" align="right">
 
 ## Requirements
-
+👉
 - Python 3.7 or higher.
 - A [bot token](//t.me/botfather).
 
